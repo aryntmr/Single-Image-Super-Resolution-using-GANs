@@ -1,7 +1,7 @@
 ## Single Image Super Resolution (SISR) using Generative Adversarial Network (GAN)
 
 ### Overview
-This repository contains the implementation of Single Image Super Resolution (SISR) using Generative Adversarial Network (GAN). The project was conducted from November 2023 to January 2024.
+This repository contains the implementation of Single Image Super Resolution (SISR) using Generative Adversarial Network (GAN).
 
 ### Project Details
 - **Objective**: The goal of this project was to enhance the resolution of single images using deep learning techniques, particularly Generative Adversarial Networks (GANs).
